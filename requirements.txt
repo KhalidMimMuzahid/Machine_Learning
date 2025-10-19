@@ -3,3 +3,4 @@ matplotlib
 jupyter
 notebook
 scipy
+scikit-learn
